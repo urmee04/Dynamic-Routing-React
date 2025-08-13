@@ -67,5 +67,5 @@ To complete this lab I followed class lessons and code suggestions. I also used 
 - [React Router](https://reactrouter.com/6.30.1/start/tutorial)
 - [React Router Naigate](https://api.reactrouter.com/v7/functions/react_router.useNavigate.html)
 - [useParams](https://api.reactrouter.com/v7/functions/react_router.useParams.html)
--[TypeScript Tutorial](https://www.youtube.com/watch?v=CHnTTzD1pAQ&list=PLHiZ4m8vCp9PgOOjdyNpc6AoBmKNrp_u3)
+- [TypeScript Tutorial](https://www.youtube.com/watch?v=CHnTTzD1pAQ&list=PLHiZ4m8vCp9PgOOjdyNpc6AoBmKNrp_u3)
 
