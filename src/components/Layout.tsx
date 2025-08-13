@@ -6,7 +6,7 @@ const Layout = () => {
   const location = useLocation();
 
   return (
-    <div className="min-h-screen bg-gray-100 font-sans">
+    <div className="app-container bg-gray-100 dark:bg-gray-900 h-screen/2 p-4 flex flex-col mx-auto ring-1 ring-gray-300 mt-10">
       <Navbar />
       <main>
         {/* AnimatePresence enables exit animations when components are removed from the tree */}
